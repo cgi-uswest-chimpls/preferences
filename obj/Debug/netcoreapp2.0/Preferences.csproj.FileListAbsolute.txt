@@ -1,0 +1,11 @@
+C:\Projects\Core\ChildWelfare\Preferences\bin\Debug\netcoreapp2.0\Preferences.deps.json
+C:\Projects\Core\ChildWelfare\Preferences\bin\Debug\netcoreapp2.0\Preferences.runtimeconfig.json
+C:\Projects\Core\ChildWelfare\Preferences\bin\Debug\netcoreapp2.0\Preferences.runtimeconfig.dev.json
+C:\Projects\Core\ChildWelfare\Preferences\bin\Debug\netcoreapp2.0\Preferences.dll
+C:\Projects\Core\ChildWelfare\Preferences\obj\Debug\netcoreapp2.0\Preferences.csprojResolveAssemblyReference.cache
+C:\Projects\Core\ChildWelfare\Preferences\obj\Debug\netcoreapp2.0\Preferences.csproj.CoreCompileInputs.cache
+C:\Projects\Core\ChildWelfare\Preferences\obj\Debug\netcoreapp2.0\Preferences.AssemblyInfoInputs.cache
+C:\Projects\Core\ChildWelfare\Preferences\obj\Debug\netcoreapp2.0\Preferences.AssemblyInfo.cs
+C:\Projects\Core\ChildWelfare\Preferences\bin\Debug\netcoreapp2.0\Preferences.pdb
+C:\Projects\Core\ChildWelfare\Preferences\obj\Debug\netcoreapp2.0\Preferences.dll
+C:\Projects\Core\ChildWelfare\Preferences\obj\Debug\netcoreapp2.0\Preferences.pdb
